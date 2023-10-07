@@ -1,9 +1,3 @@
-Version 0.1
-
-![증사.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/833ae5ea-3f6f-42df-932a-5673d47233d8/8c0b7821-ea96-4041-9044-4ad887d86bdd/%EC%A6%9D%EC%82%AC.jpg)
-
-```jsx
-
 const Person = {
 	name: 'Kwangsik Lee',
   github: 'https://github.com/Kangsiii'
