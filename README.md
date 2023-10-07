@@ -1,11 +1,3 @@
-const Person = {
-	name: 'Kwangsik Lee',
-  github: 'https://github.com/Kangsiii'
-	blog: '[https://kangsii.tistory.com](https://kangsii.tistory.com/)'
-	email:'lks405jj@naver.com',
-  phone: '010-4955-7396',
-};
-
 ```
 
 ### 
